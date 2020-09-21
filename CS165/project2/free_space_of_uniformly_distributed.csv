@@ -1,0 +1,31 @@
+fit function,number of int,free space
+next fit,10,3.00653
+first fit,10,1.00653
+first fit decreasing,10,1.00653
+best fit,10,1.00653
+best fit decreasing,10,1.00653
+next fit,100,15.6077
+first fit,100,3.6077
+first fit decreasing,100,2.6077
+best fit,100,3.6077
+best fit decreasing,100,2.6077
+next fit,1000,173.585
+first fit,1000,40.5851
+first fit decreasing,1000,21.5851
+best fit,1000,34.5851
+best fit decreasing,1000,21.5851
+next fit,10000,1685.9
+first fit,10000,212.899
+first fit decreasing,10000,14.8995
+best fit,10000,96.8995
+best fit decreasing,10000,14.8995
+next fit,100000,16796.3
+first fit,100000,1565.33
+first fit decreasing,100000,101.331
+best fit,100000,317.331
+best fit decreasing,100000,101.331
+next fit,1000000,166446
+first fit,1000000,11995.1
+first fit decreasing,1000000,302.079
+best fit,1000000,1606.08
+best fit decreasing,1000000,292.079
